@@ -1,7 +1,7 @@
 {
-  "name": "Page Redder",
-  "description": "Make the current page red",
-  "version": "2.0",
+  "name": "Facebook to Pocket",
+  "description": "Save Facebook Saved items to Pocket",
+  "version": "0.1",
   "permissions": [
     "activeTab"
   ],
@@ -13,7 +13,7 @@
   "default_icon": {
             "19": "images/icon19.png"
           },
-    "default_title": "Make this page red"
+    "default_title": "Saev to Pocket"
   },
   "manifest_version": 2
 }
